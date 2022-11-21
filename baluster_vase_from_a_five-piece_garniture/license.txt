@@ -1,0 +1,8 @@
+Model Information:
+* title:	Baluster vase, from a five-piece garniture
+* source:	https://sketchfab.com/3d-models/baluster-vase-from-a-five-piece-garniture-76a3f7bf75d049458dfaa48aa342e0b8
+* author:	The Smithsonian Institution (https://sketchfab.com/Smithsonian)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
